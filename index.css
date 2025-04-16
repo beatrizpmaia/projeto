@@ -1,0 +1,20 @@
+.row.container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: auto;
+
+    h3 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+}
+
+.card-body {
+    text-align: center;
+}
+
